@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>VIDHYA SOLAR</title>
-		<link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/raman20/assets/master/favicon.ico"/>
+		<link rel='short icon' type=''
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
@@ -15,8 +15,8 @@
     		*{margin:0px;}
     		
     		.timeline{
-    			background-color:#fcca03;
-    			color:#000000;
+    			background-color:#ffea00;
+    			color:#d50000;
     			padding-top: 15px;
     			padding-bottom: 15px;
     			font-weight: bold;
@@ -26,7 +26,7 @@
     		}
 
     		.timeline h3{
-    			color: #000000;
+    			color: #1e2d3b;
     		}
 
 			.navbar{
@@ -34,7 +34,7 @@
 			}
 
 			.background{
-				background:#f7f8fa;
+				background:#eff4ff;
 			}
 
 
@@ -330,7 +330,7 @@
 		}
 
 		.main-p{
-			line-height: 1.2em;
+			line-height: 1.7em;
 			font-family: helvetica-w01-light,helvetica-w02-light,sans-serif;
 		}
 
@@ -341,7 +341,7 @@
 		<div class="container-fluid">
 			<div class="row">
 <!-----------------------------------------------------------------navigation------------------------------------------------------------------>
-				<div class="col-sm-12 navbar navbar-expand-lg sticky-top navbar-light" style="background:#fcca03">
+				<div class="col-sm-12 navbar navbar-expand-lg sticky-top navbar-light" style="background:#90caf9">
   					<a class="navbar-brand" href="#"><img src="https://raw.githubusercontent.com/raman20/assets/master/logo2.png" style="padding-left: 10px" class="d-inline-block align-top" width="100%" alt=""></a>
   					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     					<span class="navbar-toggler-icon"></span>
@@ -360,11 +360,11 @@
       						<li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
         						<a class="nav-link" href="#projects">OUR WORK</a>
       						</li>
-      						<!--<li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
-        						<a class="nav-link" href="#projects">PRODUCTS</a>
-      						</li>-->
       						<li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
-        						<a class="nav-link" href="#contact"><span style="background-color:#333333;color:white;padding:4px;">CONTACT US</a>
+        						<a class="nav-link" href="#projects">PRODUCTS</a>
+      						</li>
+      						<li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
+        						<a class="nav-link" href="#contact">CONTACT US</a>
       						</li>
     					</ul>
   					</div>
@@ -407,7 +407,7 @@
 					<p class="text-muted">CEO</p>
 				</div>
 				<div class="col-sm-7">
-					<p class="text-left main-p text-muted" style="padding:30px; line-height:1.8em;">VIDHYA Solar is a team of with vast experience in the field of solar, renewable and information technology. We encourage people to adopt Solar Power by providing solutions to all the stakeholders like end consumers, EPC company and government agencies.<br>
+					<p class="text-left main-p" style="padding:30px; line-height: 2.5em">VIDYA Solar is a team of with vast experience in the field of solar, renewable and information technology. We encourage people to adopt Solar Power by providing solutions to all the stakeholders like end consumers, EPC company and government agencies.<br>
 
 We believe that the greatest obstacle to adoption of solar energy is lack of awareness. As solar power reaches grid parity in India (the point when electricity from solar energy becomes as cheap as electricity from non-renewable sources) the only thing in the way of full-scale adoption of solar power will be knowing about the most appropriate options.</p>
 				</div>	
@@ -420,24 +420,24 @@ We believe that the greatest obstacle to adoption of solar energy is lack of awa
 				<br><br>
 				<h1 class="headings">WHY US</h1>
 				<br>
-				<p class="text-muted">VIDYA SOLARS assures you of a simple and transparent solar journey by systematically managing each and every step! From top of the line<br><br>
-				components to quality workmanship, VIDYA SOLARS is committed to delivering you an un-matched EXPERIENCE and complete peace of mind.</p>
+				<p class="main-p">VIDYA SOLARS assures you of a simple and transparent solar journey by systematically managing each and every step! From top of the line</p>
+				<p class="main-p">components to quality workmanship, VIDYA SOLARS is committed to delivering you an un-matched EXPERIENCE and complete peace of mind.</p>
 				<br>
 				<div class="parent">
 					<div class="col2">
 						<img src="https://bit.ly/2WLmyJC">
 						<h4>One Stop Solution</h4>
-						<p class="text-muted">Your worries end here! VIDYA SOLARS shall<br>take on end-to-end responsibility.<br>The right design, designed right! </p>
+						<p>Your worries end here! VIDYA SOLARS shall<br>take on end-to-end responsibility.<br>The right design, designed right! </p>
 					</div>
 					<div class="col2">
 						<img src="https://bit.ly/3g4l98E">
 						<h4>Best Quality</h4>
-						<p class="text-muted">Our robust processes and systems<br>ensure that your Solar Rooftop Solution<br>is of top-notch quality!</p>
+						<p>Our robust processes and systems<br>ensure that your Solar Rooftop Solution<br>is of top-notch quality!</p>
 					</div>
 					<div class="col2">
 						<img src="https://bit.ly/2X8W6Ze">
 						<h4>Life Time Support</h4>
-						<p class="text-muted">From Site Surveys & Project<br>Management to Post Installation<br>requirements. We are always there!</p>
+						<p>From Site Surveys & Project<br>Management to Post Installation<br>requirements. We are always there!</p>
 					</div>
 				</div>
 			</div>
@@ -614,6 +614,7 @@ We believe that the greatest obstacle to adoption of solar energy is lack of awa
 					<li data-target="#project-slide" data-slide-to='6' class="active"></li>
 					<li data-target="#project-slide" data-slide-to='7' class="active"></li>
 					<li data-target="#project-slide" data-slide-to='8' class="active"></li>
+					<li data-target="#project-slide" data-slide-to='9' class="active"></li>
 				</ol>
   				<div class="carousel-inner">
     				<div class="carousel-item active">
@@ -637,9 +638,9 @@ We believe that the greatest obstacle to adoption of solar energy is lack of awa
     				<div class="carousel-item">
         				<img src="https://raw.githubusercontent.com/raman20/vidhya_solar_projects_image/master/8.jpg" class="d-block w-100 nav-img" alt="...">
     				</div>
-    				<!--<div class="carousel-item">
+    				<div class="carousel-item">
         				<img src="https://raw.githubusercontent.com/raman20/vidhya_solar_projects_image/master/9.jpg" class="d-block w-100 nav-img" alt="...">
-    				</div>-->
+    				</div>
     				<div class="carousel-item">
         				<img src="https://raw.githubusercontent.com/raman20/vidhya_solar_projects_image/master/10.jpg" class="d-block w-100 nav-img" alt="...">
     				</div>
@@ -711,16 +712,16 @@ We believe that the greatest obstacle to adoption of solar energy is lack of awa
 				<div class="container">
 				<h4 class="headings">Address</h4>
 				<p class="lead">(HEAD OFFICE)</p>
-				<p class="text-muted">Kunadi, Electricity Board Area,<br>
+				<p class="lead">Kunadi, Electricity Board Area,<br>
 					KOTA, RAJASTHAN, INDIA</p>
-				<p class="text-muted"><strong>Tel: </strong>+91 79760 40495</p>
-				<p class="text-muted"><strong>Email: </strong>info@vidhyasolar.in</p>
+				<p class="lead"><strong>Tel: </strong>+91 79760 40495</p>
+				<p class="lead"><strong>Email: </strong>info@vidhyasolar.in</p>
 				<br>
-				<p class="lead">(JAIPUR BRANCH OFFICE)</p>
-				<p class="text-muted">RISHABH SHARMA,<br>
+				<p class="lead">(JAIPUR OFFICE)</p>
+				<p class="lead">RISHABH SHARMA,<br>
 					3688, Babu Ka Tiba, Surajpole Bazar,<br>
 					JAIPUR, RAJASTHAN, INDIA</p>
-				<p class="text-muted"><strong>Tel: </strong>+91 9950217427</p>
+				<p class="lead"><strong>Tel: </strong>+91 9950217427</p>
 			</div>
 		</div>
 		<div class="col-sm-6 contact-form">
@@ -771,10 +772,10 @@ We believe that the greatest obstacle to adoption of solar energy is lack of awa
 <!------------------------------------------------------------------footer-------------------------------------------------------------------->
 			<div class="w-100"></div>
 			<br><br>
-		   <div class="col-sm-12" style="background: #082336">
+		   <div class="col-sm-12" style="background: #01579b">
 		   <footer>
 		   		<p style="color: #ffffff; font-size: 1em; font-family: sans-serif; padding-top: 5px">© 2020 by Vidhya Solar Solutions</p>
-		   		<p style="color: #ffffff; font-size: 0.65em; font-family: sans-serif;">Designed and Developed by <a href="https://raman20.github.io/raman_contact.github.io/" target="blank"><strong>RAMAN DWIVEDI</strong></a></p>
+		   		<p style="color: #ffffff; font-size: 0.65em; font-family: sans-serif;">Designed and Developed by <a href="https://raman20.github.io/raman_contact.github.io/"><strong>RAMAN DWIVEDI</strong></a></p>
 		   	</footer>	
 		   </div>
 		</div>	

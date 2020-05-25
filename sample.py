@@ -43,5 +43,6 @@ def database():
 	con.close()
 	return render_template('database.html',data=data)
 
-if __name__ == "__main__":
-	app.run(host='localhost',port=9090)
+
+if __name__=='__main__':
+	app.run()
